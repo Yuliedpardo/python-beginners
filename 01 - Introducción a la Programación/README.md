@@ -2,12 +2,6 @@
 
 # Primeros Pasos
 
-## Grabación de la Clase 1
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/683356760" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
