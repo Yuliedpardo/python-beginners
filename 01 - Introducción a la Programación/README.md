@@ -375,16 +375,4 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 
 Instalar Visual Studio Code, GitHub y Python para poder comenzar!
 
-Si tienes dudas sobre este tema, puedes consultarlas en el canal #python de Slack
 
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
