@@ -1,52 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<!--# ANALYTICS:-->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161500899-3">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-161500899-3');
-</script>
-
-<!--# GOOGLE TAG MANAGER-->
-<!--# HEAD-->
-<!-- Google Tag Manager -->
-<script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5Z2JFWV');
-</script>
-<!-- End Google Tag Manager -->
-<!--# BODY-->
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z2JFWV"
-height="0" width="0" style="display:none;visibility:hidden">
-  </iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-LHV5X0V6Y9');
-</script>
-
-## Grabación de la Clase 2 
-
-<!--div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/674888247" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div-->
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/674888247?h=99f9e6c3f6" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
 
 ## Principales Objetivos de Aprendizaje para esta Clase
 
@@ -268,20 +219,52 @@ str(): construye una cadena a partir de una amplia variedad de tipos de datos, i
 2
 ```
 
+
+**Sistema Binario: **
+
+El sistema binario es un sistema de numeración fundamental en la computación y electrónica, ya que se basa en dos dígitos: 0 y 1. A diferencia del sistema decimal, que utiliza diez dígitos (0 al 9), el sistema binario utiliza solo dos, lo que refleja el diseño de circuitos electrónicos y la representación de información en formato digital.
+
+### Dígitos y Posiciones:
+
+1. **Dígitos:** Los únicos dígitos en el sistema binario son 0 y 1. Cada dígito se llama "bit" (abreviatura de binary digit).
+
+2. **Posiciones:** Al igual que en el sistema decimal, los dígitos en el sistema binario tienen posiciones que representan potencias de 2. La posición más a la derecha es 2^0, la siguiente es 2^1, luego 2^2, y así sucesivamente.
+
+### Conversión de Decimal a Binario:
+
+Para convertir un número decimal a binario, se divide sucesivamente por 2 y se registra el residuo en cada paso. El resultado se lee en orden inverso, desde el último residuo obtenido.
+
+Ejemplo: Convertir 13 a binario.
+
+```python
+  13 ÷ 2 = 6 con residuo 1   (posición 2^0)
+   6 ÷ 2 = 3 con residuo 0   (posición 2^1)
+   3 ÷ 2 = 1 con residuo 1   (posición 2^2)
+   1 ÷ 2 = 0 con residuo 1   (posición 2^3)
+```
+
+La lectura en orden inverso de los residuos es `1101`, por lo que el número binario equivalente a 13 en decimal es `1101`.
+
+### Operaciones en Binario:
+
+Las operaciones en binario son similares a las operaciones en decimal, pero se llevan a cabo con las reglas específicas del sistema binario. Algunas operaciones básicas incluyen la suma binaria y el desplazamiento de bits.
+
+#### Suma Binaria:
+
+- **0 + 0 = 0**
+- **0 + 1 = 1**
+- **1 + 1 = 10** (En este caso, se coloca un 0 y se lleva un 1 al siguiente bit)
+
+#### Desplazamiento de Bits:
+
+El desplazamiento de bits implica mover todos los bits de un número hacia la izquierda o hacia la derecha. En el desplazamiento a la izquierda, los nuevos bits agregados son 0, mientras que en el desplazamiento a la derecha, los nuevos bits dependen del bit más significativo.
+
+### Uso en Computación:
+
+El sistema binario es fundamental en la representación interna de datos en las computadoras. Cada bit representa un interruptor electrónico que puede estar en dos estados: encendido (1) o apagado (0). La combinación de múltiples bits forma bytes, que son la base para la representación de datos en todos los niveles, desde códigos de máquina hasta la codificación de caracteres.
+
 ## Homework
 
 Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Python-Prep/blob/4aec1885136fdcff98899d2be13c8908b39f8b21/02%20-%20Variables%20y%20Tipos%20de%20Datos/Prep_Course_Homework_02.md)
 
-Si tienes dudas sobre este tema, puedes consultarlas en el canal #python de Slack
 
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>

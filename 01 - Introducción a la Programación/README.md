@@ -1,51 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-<!--# ANALYTICS:-->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161500899-3">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-161500899-3');
-</script>
-
-<!--# GOOGLE TAG MANAGER-->
-<!--# HEAD-->
-<!-- Google Tag Manager -->
-<script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5Z2JFWV');
-</script>
-<!-- End Google Tag Manager -->
-<!--# BODY-->
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z2JFWV"
-height="0" width="0" style="display:none;visibility:hidden">
-  </iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-LHV5X0V6Y9');
-</script>
-
-# Primeros Pasos
-
-## Grabación de la Clase 1
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/683356760" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
 
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
@@ -53,30 +5,6 @@ Antes de comenzar deberás descargar en tu computadora las siguientes herramient
 2. Git
 3. Github
 4. Python
-
-Luego deberás realizar la clonación del [repositorio](https://github.com/soyHenry/Python-Prep). Te explicamos cómo hacerlo en el tutorial: 
-
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/638636752" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
-</div>
-
-> **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
-
-## SLACK
-
-Slack es una plataforma de comunicación que utilizamos en Henry para estar conectados. Por este medio podrás recibir comunicados y mantener conversaciones con toda la comunidad de Henry. 
-
-### ¿Cómo usar SLACK?
-
-A continuación te mostramos cómo funciona: 
-<div class="iframeContainer">
- <iframe src="https://player.vimeo.com/video/548902078?h=e82a766bab&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479" width="1264" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
-</div>
-
-Para ingresar al espacio de Slack del Prep Course de Henry, por favor revisa el los mails que recibiste al avanzar con el proceso de admisión dado que ahí encontrarás el link de acceso
-
-> Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
 
 ## Editores de Texto
 
