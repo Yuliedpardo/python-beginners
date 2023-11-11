@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
+=======
+
+# Primeros Pasos
+
+>>>>>>> 6f10ca1ff4a47ecdb0b5829ed5735adb9277c94b
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
@@ -6,6 +12,12 @@ Antes de comenzar deberás descargar en tu computadora las siguientes herramient
 3. Github
 4. Python
 
+<<<<<<< HEAD
+=======
+
+> **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
+
+>>>>>>> 6f10ca1ff4a47ecdb0b5829ed5735adb9277c94b
 ## Editores de Texto
 
 Para poder escribir código que pueda ser interpretado por un lenguaje de programación, necesitamos utilizar un editor de texto.
@@ -369,16 +381,4 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 
 Instalar Visual Studio Code, GitHub y Python para poder comenzar!
 
-Si tienes dudas sobre este tema, puedes consultarlas en el canal #python de Slack
 
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
